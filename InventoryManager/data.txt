@@ -1,0 +1,20 @@
+1001 T-Shirt 50 15.99
+1002 Jeans 30 29.99
+1003 Sneakers 40 49.99
+1004 Backpack 20 39.99
+1005 Watch 25 79.99
+1006 Hoodie 35 24.99
+1007 Leggings 45 19.99
+1008 Sunglasses 15 34.99
+1009 Running Shoes 20 59.99
+1010 Water Bottle 60 9.99
+1011 Dress Shirt 40 34.99
+1012 Skirt 25 29.99
+1013 Flip Flops 50 14.99
+1014 Handbag 30 49.99
+1015 Headphones 10 99.99
+1016 Sweatpants 30 27.99
+1017 Baseball Cap 40 12.99
+1018 Scarf 25 19.99
+1019 Wallet 20 29.99
+1020 Smartphone Case 35 15.99
