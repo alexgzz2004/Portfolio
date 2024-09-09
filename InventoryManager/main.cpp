@@ -1,11 +1,6 @@
 /* CSCI 200: Final Project: Inventory Management System 
- *
  * Author: Alejandro Gonzalez
- * Resources used (Office Hours, Tutoring, Other Students, etc & in what capacity):
- *     // list here any outside assistance you used/received while following the
- *     // CS@Mines Collaboration Policy and the Mines Academic Code of Honor
- *
- * The program performs a series of tasks using data of products from a retail store
+ * The program performs a series of tasks using data file of products from a retail store
  *  to generate a report, add/remove products, or make an order.
  */
 
