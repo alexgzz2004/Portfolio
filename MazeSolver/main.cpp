@@ -1,11 +1,6 @@
-/* CSCI 200: Assignment 6: A6 - SFML: Maze Runner
- *
+/*SFML: Maze Runner
  * Author: Alejandro Gonzalez
- * Resources used (Office Hours, Tutoring, Other Students, etc & in what capacity):
- *     // list here any outside assistance you used/received while following the
- *     // CS@Mines Collaboration Policy and the Mines Academic Code of Honor
- *
- * The program uses data from external files to create and solve mazes
+ * The program uses data from external files to solve mazes
  */
 
 #include <iostream>
